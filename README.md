@@ -51,7 +51,9 @@ Run: Zadig (C:\Program Files (x86)\sigrok\PulseView\zadig.exe)
 
 ##### (STEP 5) RUN PULSEVIEW
 Run: PulseView (C:\Program Files (x86)\sigrok\PulseView\pulseview.exe)<br>
-Then Unknown Device become fx2lafw
+Then Unknown Device become fx2lafw<br>
+Channel 0 -> Channel 7:  PB0 -> PB7<br>
+Channel 8 -> Channel 15: PD0 -> PD7
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_8.png" width=800>
@@ -60,6 +62,3 @@ Then Unknown Device become fx2lafw
 <p align="center">
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_9.gif">
 </p>
-
-Channel 0 -> Channel 7:  PB0 -> PB7<br>
-Channel 8 -> Channel 15: PD0 -> PD7
