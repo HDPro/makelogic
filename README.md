@@ -1,9 +1,12 @@
 LOGIC ANALYTICS WITH CY7C68013A BOARD
 ====
-<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_1.png" align="center">
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_1.png" width=700 align="center">
 
 ### INSTALL SOFTWARE
-<p align="center"><img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_2.png"></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_2.png">
+</p>
+
 DOWNLOAD: <a href="https://softwaretools.infineon.com/tools/com.ifx.tb.tool.ezusbfx3sdk" target="_blank">EZ-USB™ FX3 SDK (*)</a><br>
 (*): "EZ-USB™ FX3 SDK" need Free Infineon Account to download. It provide driver for CY7C68013A and software to programing eeprom.
 ====
