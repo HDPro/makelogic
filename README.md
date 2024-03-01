@@ -4,6 +4,6 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 
 ### SET ADDRESS FOR I2C EEPROM
 Remove left jump in board!
-<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_2.png" align="center">
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_2.jpg" align="center">
 
 ### SET ADDRESS FOR I2C EEPROM
