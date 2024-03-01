@@ -11,7 +11,7 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 (*): "EZ-USB™ FX3 SDK" need Free Infineon Account to download. It provide driver for CY7C68013A and software to programing eeprom.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_3.png" width=500>
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_3.png" width="50%">
 </p>
 
 ##### DOWNLOAD: [PulseView (*)](https://sigrok.org/wiki/Downloads)<br>
