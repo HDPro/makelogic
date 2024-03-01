@@ -32,6 +32,9 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_5.gif">
 </p>
 
+##### DOWNLOAD PROGRAM FOR BOARD
+Run: C:\Program Files (x86)\Cypress\EZ-USB FX3 SDK\1.3\bin\CyControl.exe (Control Center)
 
-
-### SET ADDRESS FOR I2C EEPROM
+<p align="center">
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_6.gif">
+</p>
