@@ -14,6 +14,8 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_3.png">
 </p>
 
+====
+
 ##### DOWNLOAD: [PulseView (*)](https://sigrok.org/wiki/Downloads)<br>
 (*): I try install PulseView Nightly Build but start button not working. Then I try PulseView Release Build. It works well kkk.
 
@@ -21,6 +23,7 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 <p align="center">
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_2.jpg">
 </p>
+
 
 
 ### SET ADDRESS FOR I2C EEPROM
