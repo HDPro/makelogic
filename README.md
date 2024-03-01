@@ -33,8 +33,10 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 </p>
 
 ##### DOWNLOAD PROGRAM FOR BOARD
-Run: C:\Program Files (x86)\Cypress\EZ-USB FX3 SDK\1.3\bin\CyControl.exe (Control Center)
+Run: Control Center (C:\Program Files (x86)\Cypress\EZ-USB FX3 SDK\1.3\bin\CyControl.exe)
+The operation is similar to the gif below then unplug USB cable and plug it back in.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_6.gif">
 </p>
+
