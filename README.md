@@ -19,8 +19,17 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 </p>
 
 ### SETUP CY7C68013A BOARD
+
+##### REMOVE LEFT JUMP IN BOARD
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_2.jpg">
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_4.jpg">
+</p>
+
+##### INSTALL DRIVER FOR BOARD
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_5.gif">
 </p>
 
 
