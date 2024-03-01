@@ -20,7 +20,7 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 
 ##### DOWNLOAD: [EEPROM Configuration.iic](https://raw.githubusercontent.com/HDPro/makelogic/main/EEPROM%20Configuration.iic)
 
-### SETUP CY7C68013A BOARD
+### SETUP AND RUN CY7C68013A BOARD
 
 ##### (STEP 1) REMOVE LEFT JUMP IN BOARD
 
