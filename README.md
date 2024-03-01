@@ -54,5 +54,9 @@ Run: PulseView (C:\Program Files (x86)\sigrok\PulseView\pulseview.exe)<br>
 Then Unknown Device become fx2lafw
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_8.png">
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_8.png" width=800>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_9.gif">
 </p>
