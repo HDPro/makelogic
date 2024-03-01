@@ -1,4 +1,4 @@
-LOGIC ANALYTICS 16 CHANNEL WITH CY7C68013A BOARD
+LOGIC ANALYTICS 16 CHANNEL WITH CY7C68013A
 ====
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_1.png">
 
