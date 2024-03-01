@@ -8,14 +8,14 @@ LOGIC ANALYTICS WITH CY7C68013A BOARD
 (*): "EZ-USB™ FX3 SDK" need Free Infineon Account to download. It provide driver for CY7C68013A and software to programing eeprom.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_2.png" width=300>
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_2.png" width=600>
 </p>
 
 ##### DOWNLOAD: [PulseView (*)](https://sigrok.org/wiki/Downloads)
 (*): I try install PulseView Nightly Build but start button not working. Then I try PulseView Release Build. It works well kkk.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_3.png" width=300>
+<img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_3.png" width=600>
 </p>
 
 ### SETUP CY7C68013A BOARD
