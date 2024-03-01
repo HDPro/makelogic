@@ -61,5 +61,5 @@ Then Unknown Device become fx2lafw
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_9.gif">
 </p>
 
-Channel 0 -> Channel 7:  PB0 -> PB7
+Channel 0 -> Channel 7:  PB0 -> PB7<br>
 Channel 8 -> Channel 15: PD0 -> PD7
