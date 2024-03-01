@@ -1,4 +1,4 @@
-LOGIC ANALYTICS WITH CY7C68013A BOARD
+LOGIC ANALYTICS 16 CHANNEL WITH CY7C68013A BOARD
 ====
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_1.png">
 
@@ -60,3 +60,6 @@ Then Unknown Device become fx2lafw
 <p align="center">
 <img src="https://raw.githubusercontent.com/HDPro/makelogic/master/images/image_9.gif">
 </p>
+
+Channel 0 -> Channel 7:  PB0 -> PB7
+Channel 8 -> Channel 15: PD0 -> PD7
